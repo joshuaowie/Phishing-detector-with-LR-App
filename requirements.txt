@@ -4,4 +4,3 @@ streamlit
 matplotlib
 scikit-learn
 probability
-pickle
